@@ -348,7 +348,7 @@ export default {
       axios
         .get(`http://127.0.0.1:8000/api/products/${route.params.id}`)
         .then((result) => {
-          products.value = result.data.data
+          products.value = result.data
         })
         .catch((err) => {
           console.log(err.response)

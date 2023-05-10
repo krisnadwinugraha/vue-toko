@@ -9,7 +9,7 @@
         <a
           class="font-bold text-4xl mb-16 text-center text-green-600 hover:text-gray-700"
         >
-          GREEN GROSSIER
+          GREEN GROCERIES
         </a>
       </div>
 
@@ -71,12 +71,12 @@
         <a
           class="text-xl text-white font-semibold hover:text-gray-900 focus:text-gray-700 px-5"
           href="#"
-          >APPAREL</a
+          >Food</a
         >
         <a
           class="text-xl text-white font-semibold hover:text-gray-900 focus:text-gray-700 px-5"
           href="#"
-          >Collection</a
+          >Fruits</a
         >
         <a
           class="text-xl text-white font-semibold hover:text-gray-900 focus:text-gray-700 px-5"
@@ -86,12 +86,12 @@
         <a
           class="text-xl text-white font-semibold hover:text-gray-900 focus:text-gray-700 px-5"
           href="#"
-          >Artist</a
+          >Vegetable</a
         >
         <a
           class="text-xl text-white font-semibold hover:text-gray-900 focus:text-gray-700 px-5"
           href="#"
-          >Clearence</a
+          >Staple</a
         >
         <a
           class="text-xl text-white font-semibold hover:text-gray-900 focus:text-gray-700 px-5"
